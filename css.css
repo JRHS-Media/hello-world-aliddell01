@@ -2,3 +2,12 @@ p {
     text-align: center;
     Font-family: sans-serif;
 }
+.wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.header {
+    width: 100%
+}
